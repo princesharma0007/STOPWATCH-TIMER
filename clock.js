@@ -1,5 +1,5 @@
 const clockBox = document.getElementById("clock");
-const watchBox = document.getElementById("stop-watch");
+const watchBox = document.getElementById("stop-watch"); 
 
 const days = [
   "Sunday",

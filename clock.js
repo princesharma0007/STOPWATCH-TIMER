@@ -1,4 +1,4 @@
-const clockBox = document.getElementById("clock");
+const clockBox = document.getElementById("clock"); 
 const watchBox = document.getElementById("stop-watch"); 
 
 const days = [

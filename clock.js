@@ -7,7 +7,7 @@ const days = [
   "Tuesday",
   "Wednesday",
   "Thursday", 
-  "Friday",
+  "Friday", 
   "Saturday",
 ];
 
